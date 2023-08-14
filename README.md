@@ -1,2 +1,2 @@
 # Hello-World
-This repository´s the my fist repository in the github, in this one ´s a test.
+Este repositório foi criado como teste do curso da Cubos Academy.
